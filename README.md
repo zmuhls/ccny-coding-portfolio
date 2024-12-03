@@ -1,12 +1,12 @@
-# sample-gh-portfolio
-Begin with a concise summary of your portfolio project that thoughtfully reflects on the broader arc of your learning trajectory in this class. Additionally, envision potential ways your future self can harness Python—both conceptually and pragmatically—not only for work purposes but also for lifelong learning.
+# Sample GitHub Portfolio
+Begin with a concise summary of your portfolio project that thoughtfully reflects on the broader arc of your learning trajectory in this class Additionally, envision potential ways your future self can harness Python—both conceptually and pragmatically—not only for work purposes but also for lifelong learning
 
-* https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository
-* https://github.com/zmuhls/ccny-data-science
-* https://zmuhls.github.io/ccny-data-science/
+## Useful Links
+- [Stack Overflow: How do I create a folder in a GitHub repository?](https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository)
+- [GitHub Repository: ccny-data-science](https://github.com/zmuhls/ccny-data-science)
+- [GitHub Pages: ccny-data-science](https://zmuhls.github.io/ccny-data-science/)
 
-To manage your portfolio project using GitHub Desktop, follow these steps:
-
+## Managing Your Portfolio Project Using GitHub Desktop
 1. **Launch GitHub Desktop**: Open the GitHub Desktop application on your computer
 
 2. **Clone the Repository**:
