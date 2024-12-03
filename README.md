@@ -1,5 +1,5 @@
 # Sample GitHub Portfolio
-Begin with a concise summary of your portfolio project that thoughtfully reflects on the broader arc of your learning trajectory in this class Additionally, envision potential ways your future self can harness Python—both conceptually and pragmatically—not only for work purposes but also for lifelong learning
+Begin with a concise summary of your portfolio project that thoughtfully reflects on the broader arc of your learning trajectory in this class and visualizes potential ways your future self can harness Python—both conceptually and pragmatically—in your everyday research, work, and learning.
 
 ## Useful Links
 - [Stack Overflow: How do I create a folder in a GitHub repository?](https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository)
